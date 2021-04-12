@@ -2,6 +2,8 @@
 
 ## Custom Windows Terminal Profile
 
+![Sample Gradient from Octocat 2077]("./images/octocat2077-gradient.png")
+
 ### Table of Contents
 
 - 1.[About](#about)
@@ -22,7 +24,7 @@
 
 ---
 
-![Sample Image of Octocat 2077](/images/do-not-use.jpg)
+![Sample Image of Octocat 2077]("./images/octocat2077-terminal.jpg")
 
 ---
 
