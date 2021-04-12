@@ -6,7 +6,7 @@
 
 1. [About](#about)
 2. [Usage](#usage)
-3. [Sources](.#sources)
+3. [Sources](#sources)
 
 <img src="https://github.com/killshot13/octocat2077/blob/main/images/octocat2077-gradient.png" width=60% align=right alt="Sample Gradient from Octocat 2077">
 
