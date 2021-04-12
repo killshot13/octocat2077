@@ -1,0 +1,112 @@
+/** CYBERPUNK 2077 FULL COLOR THEME **/
+
+/** ALL VALUES SOURCED FROM REAL SCENES IN THE GAME **/
+{
+	"Raw Hex Values": [
+		"272932",
+		"710000",
+		"fdf500",
+		"1ac5b0",
+		"37ebf3",
+		"9381ff",
+		"e455ae",
+		"cb1dcd",
+		"d1c5c0"
+	],
+
+	"Default Palette": {
+		"Raisin Black": "272932",
+		"Blood Red": "710000",
+		"Lemon": "fdf500",
+		"Keppel": "1ac5b0",
+		"Electric Blue": "37ebf3",
+		"Medium Purple": "9381ff",
+		"Frostbite": "e455ae",
+		"Steel Pink": "cb1dcd",
+		"Pale Silver": "d1c5c0"
+	},
+
+	"Extended Palette": [
+		{
+			"name": "Raisin Black",
+			"hex": "272932",
+			"rgb": [39, 41, 50],
+			"cmyk": [22, 18, 0, 80],
+			"hsb": [229, 22, 20],
+			"hsl": [229, 12, 17],
+			"lab": [17, 2, -6]
+		},
+		{
+			"name": "Blood Red",
+			"hex": "710000",
+			"rgb": [113, 0, 0],
+			"cmyk": [0, 100, 100, 56],
+			"hsb": [0, 100, 44],
+			"hsl": [0, 100, 22],
+			"lab": [22, 44, 33]
+		},
+		{
+			"name": "Lemon",
+			"hex": "fdf500",
+			"rgb": [253, 245, 0],
+			"cmyk": [0, 3, 100, 1],
+			"hsb": [58, 100, 99],
+			"hsl": [58, 100, 50],
+			"lab": [94, -18, 92]
+		},
+		{
+			"name": "Keppel",
+			"hex": "1ac5b0",
+			"rgb": [26, 197, 176],
+			"cmyk": [87, 0, 11, 23],
+			"hsb": [173, 87, 77],
+			"hsl": [173, 77, 44],
+			"lab": [72, -45, -1]
+		},
+		{
+			"name": "Electric Blue",
+			"hex": "37ebf3",
+			"rgb": [55, 235, 243],
+			"cmyk": [77, 3, 0, 5],
+			"hsb": [183, 77, 95],
+			"hsl": [183, 89, 58],
+			"lab": [85, -40, -16]
+		},
+		{
+			"name": "Medium Purple",
+			"hex": "9381ff",
+			"rgb": [147, 129, 255],
+			"cmyk": [42, 49, 0, 0],
+			"hsb": [249, 49, 100],
+			"hsl": [249, 100, 75],
+			"lab": [61, 37, -61]
+		},
+		{
+			"name": "Frostbite",
+			"hex": "e455ae",
+			"rgb": [228, 85, 174],
+			"cmyk": [0, 63, 24, 11],
+			"hsb": [323, 63, 89],
+			"hsl": [323, 73, 61],
+			"lab": [58, 64, -19]
+		},
+		{
+			"name": "Steel Pink",
+			"hex": "cb1dcd",
+			"rgb": [203, 29, 205],
+			"cmyk": [1, 86, 0, 20],
+			"hsb": [299, 86, 80],
+			"hsl": [299, 75, 46],
+			"lab": [49, 80, -50]
+		},
+		{
+			"name": "Pale Silver",
+			"hex": "d1c5c0",
+			"rgb": [209, 197, 192],
+			"cmyk": [0, 6, 8, 18],
+			"hsb": [18, 8, 82],
+			"hsl": [18, 16, 79],
+			"lab": [80, 3, 4]
+		}
+	]
+}
