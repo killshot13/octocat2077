@@ -46,7 +46,7 @@ _If you don't have the "MesloLGS NF" font but wish to install it, look for the l
 
 - Don't forget to take note of where you store the background image and update the path assigned to `"backgroundImage"`.
 
-### Sources <a name = "source"></a>
+### Sources <a name = "sources"></a>
 >
 >Terminal --> [Windows Terminal](https://github.com/microsoft/terminal)
 >
