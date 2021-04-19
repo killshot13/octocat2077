@@ -14,9 +14,9 @@
 
 - Features a snazzy Windows Terminal color scheme with a complementary background image.
 
-- The choice of imagery for the background draws inspiration from the beloved octocat logo popularized by GitHub.
+- The background imagery draws inspiration from GitHub's beloved octocat logo.
 
-- The color scheme is based on the recently released CyberPunk 2077 video game.
+- The color scheme is based on the recent CyberPunk 2077 game.
 
 - Hence the name - **OCTOCAT 2077**. 
 
